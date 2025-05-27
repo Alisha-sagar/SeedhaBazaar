@@ -1,4 +1,4 @@
-# myapp
+# SeedhaBazaar
 
 A new Flutter project.
 
