@@ -1,6 +1,6 @@
 # SeedhaBazaar
 
-A new Flutter project.
+Where Farmer directly connect to their customer
 
 ## Getting Started
 
